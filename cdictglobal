@@ -1,0 +1,6 @@
+#ifndef CDICTGLOBAL
+#define CDICTGLOBAL
+
+#include "dictglobal.h"
+
+#endif // CDICTGLOBAL

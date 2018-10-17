@@ -1,0 +1,6 @@
+#ifndef CDICT
+#define CDICT
+
+#include "dict.h"
+
+#endif // CDICT
